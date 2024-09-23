@@ -1,0 +1,7 @@
+# ignore all files
+
+parallel-encryptor-decryptor
+
+*.o
+*.out
+*.exe
